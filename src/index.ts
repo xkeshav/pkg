@@ -1,1 +1,1 @@
-export const alphabet = Array.from(Array(26), (_: any, i:number) => String.fromCharCode(65 + i));
+export const alphabet = Array.from(Array(26), (_: undefined, i:number) => String.fromCharCode(65 + i));
