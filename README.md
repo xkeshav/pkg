@@ -1,6 +1,6 @@
 # alphabet
 
-A simple npm package which return array of english alphabets ( length of 26 )
+A simple npm package which return array of english alphabet in capital case.
 
 ## How to install
 

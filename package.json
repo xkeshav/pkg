@@ -1,13 +1,10 @@
 {
   "name": "@xkeshav/alphabet",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "A npm package which return array of 26 letters of English alphabet in capital case.",
-  "main": "./lib/index.js",
-  "types": "./lib/index.d.ts",
+  "main": "./index.js",
   "scripts": {
-    "build": "npx tsc",
-    "prepublish": "npm run build",
-    "version": "npm publish --access=public"
+    "test": "echo \"bye bye\" && exit 1"
   },
   "keywords": [
     "alphabet",
@@ -15,9 +12,5 @@
     "xkeshav"
   ],
   "author": "Keshav Mohta",
-  "license": "MIT",
-  "files": ["./lib/**"],
-  "dependencies": {
-    "typescript": "^5.3.3"
-  }
+  "license": "MIT"
 }
