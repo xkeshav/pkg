@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "incremental": true,                              
+    "target": "es5",                                     
+    "module": "commonjs",                                
+    "declaration": true,                              
+    "outDir": "./lib",                                   
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,            
+    "strict": true,                                      
+    "skipLibCheck": true,
+    "lib": ["esnext"]                                 
+  }
+  ,"include": ["src", "index.js"]
+}
