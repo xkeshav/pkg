@@ -1,6 +1,6 @@
 {
   "name": "@xkeshav/alphabet",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "A npm package which return array of 26 letters of English alphabet in capital case.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
